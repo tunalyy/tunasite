@@ -12,7 +12,7 @@ export default function Header() {
       >
         <nav className="flex justify-between items-center">
           <div className="w-1/3 flex justify-start">
-            <h1>Tunaxz</h1>
+            <h1>tunaxz</h1>
           </div>
 
           <div className="w-1/3 flex justify-center gap-x-2 mr-2 sm:mr-0">
